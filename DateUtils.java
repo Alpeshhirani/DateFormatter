@@ -1,4 +1,4 @@
-package com.presentmaam.xitix.Utils;
+package com.hirani.Utils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
